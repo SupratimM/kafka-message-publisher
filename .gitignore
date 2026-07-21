@@ -9,13 +9,7 @@
 
 # Whitelisted files to track
 !Kafka_ui_updated.py
-!Bulk_Kafka_Posting.py
-!Bulk_Kafka_Posting_Dynamic.py
-!Bulk_Kafka_Posting_Dynamic_Multiline.py
-!Bulk_Kafka_Posting_SLSU.py
 !kafka_truststore.pem
-!ChatGPT Image Mar 14, 2026, 02_38_21 AM.png
-!LPN_100_Conversion.xml
 
 # UI Assets needed to run the app
 !logo.png
