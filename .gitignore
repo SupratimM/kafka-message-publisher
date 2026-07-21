@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+*.exe
+*.zip
+
+# Local configuration and sent message history files (contains sensitive corporate payload data)
+history.json
+lpn_publisher_config.json
+
+# Local temp logs
+*.log
