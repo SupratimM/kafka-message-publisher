@@ -8,10 +8,9 @@
 !.gitignore
 
 # Whitelisted files to track
+!/Bulk_Kafka_Posting_Dynamic.py
+!/Bulk_Kafka_Posting_Dynamic_Multiline.py
+!/Bulk_Kafka_Posting_SLSU.py
+!/ChatGPT Image Mar 14, 2026, 02_38_21 AM.png
 !/Kafka_ui_updated.py
-!/kafka_truststore.pem
-
-# UI Assets needed to run the app
-!/logo.png
-!/icon.ico
-!/dist/Kafka_ui_updated.exe
+!/LPN_100_Conversion.xml
