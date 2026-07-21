@@ -8,9 +8,9 @@
 !.gitignore
 
 # Whitelisted files to track
-!Kafka_ui_updated.py
-!kafka_truststore.pem
+!/Kafka_ui_updated.py
+!/kafka_truststore.pem
 
 # UI Assets needed to run the app
-!logo.png
-!icon.ico
+!/logo.png
+!/icon.ico
